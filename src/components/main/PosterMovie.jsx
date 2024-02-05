@@ -21,8 +21,8 @@ export default function PosterMovie({ trailer, movie, setPlaying }) {
           sx={{
             color: "white",
             fontSize: "clamp(2rem, 3.5vw, 4rem)",
-            WebkitTextStroke: "1.5px black",
-            textShadow: "1px 1px 3px black",
+            WebkitTextStroke: ".5px black",
+            textShadow: "1px 1px 6px black",
             mt: 1
           }} 
           variant="h2">
